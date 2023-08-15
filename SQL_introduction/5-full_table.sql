@@ -1,3 +1,4 @@
 -- SHOWS FULL DESCRIPTION
 
-SHOW first_table;
+-- Select rows from a Table or View 'TableOrViewName' in schema 'SchemaName'
+SELECT * FROM first_table;
