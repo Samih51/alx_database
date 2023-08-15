@@ -1,3 +1,4 @@
+-- creating another table and populating the TABLE
 
 CREATE TABLE IF NOT EXISTS first_table
 (
