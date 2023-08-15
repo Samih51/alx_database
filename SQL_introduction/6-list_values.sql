@@ -1,0 +1,3 @@
+-- LIST ALL VALUES
+
+DESCRIBE first_table;
