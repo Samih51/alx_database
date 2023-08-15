@@ -1,6 +1,6 @@
 -- creating another table and populating the TABLE
 
-CREATE TABLE IF NOT EXISTS first_table
+CREATE TABLE IF NOT EXISTS second_table
 (
     id INT,
     name  VARCHAR(256),
