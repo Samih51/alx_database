@@ -1,4 +1,4 @@
---start
+--start;
 /*This lists all the databases*/
 
 SHOW DATABASES;
