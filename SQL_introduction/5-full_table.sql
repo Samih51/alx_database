@@ -1,0 +1,3 @@
+-- SHOWS FULL DESCRIPTION
+
+SHOW first_table;
