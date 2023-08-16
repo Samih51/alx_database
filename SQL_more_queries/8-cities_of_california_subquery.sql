@@ -3,4 +3,4 @@
 SELECT * 
 FROM states 
 WHERE name = 'California' 
-ORDER BY cities.id;
+ORDER BY id;
