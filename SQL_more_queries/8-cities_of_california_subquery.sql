@@ -1,6 +1,6 @@
 -- SELECT ALL VALUES WHERE THE NAME IS CALIFORINA AND IRS ORDERED
 
-SELECT * 
+SELECT id, name 
 FROM cities 
 WHERE state_id = (SELECT id FROM states WHERE name = 'California') 
 ORDER BY id;
