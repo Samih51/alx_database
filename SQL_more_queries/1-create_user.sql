@@ -1,6 +1,6 @@
 -- CREATING A USER AND GIVING IT ALL THE PRIVELAGES
 
 CREATE USER IF NOT EXISTS 'user_0d_1'@'localhost';
-SET PASSWORD FOR 'user_0d_1'@'loclahost' = ' user_0d_1_pwd'
-GRANT ALL PRIVELAGES ON *.* TO ' user_0d_1'@'localhost';
+SET PASSWORD FOR 'user_0d_1'@'loclahost' = 'user_0d_1_pwd'
+GRANT ALL PRIVELAGES ON *.* TO 'user_0d_1'@'localhost';
 FLUSH PRIVELAGES;
